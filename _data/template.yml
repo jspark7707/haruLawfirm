@@ -2,8 +2,8 @@
 color:
   primary: 000000
   secondary: 000000
-  secondary-dark: 333
-  muted: 777
+  secondary-dark: 000000
+  muted: 000000
 
 # Font Families
 font:
