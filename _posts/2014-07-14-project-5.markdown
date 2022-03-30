@@ -1,6 +1,6 @@
 ---
 title: 상간자소송 위자료 감액
-subtitle: 상간자소송의 피고가 된 의뢰인의 위자료가 감액된 사건
+subtitle: 의뢰인의 위자료가 감액된 사건
 layout: default
 modal-id: 5
 date: 2014-07-14
