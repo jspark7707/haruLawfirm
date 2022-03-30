@@ -1,15 +1,15 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: 상간자소송 위자료 감액
+subtitle: 상간자소송의 피고가 된 의뢰인의 위자료가 감액된 사건
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+img: antifidelity.png
+thumbnail: antifidelity.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: 2021
+client:
+category: 민사소송
+description: 상간자로 위자료 3000만원을 지급하라는 소송의 피고로 피소된 의뢰인을 대리하여 지급액을 1000만원으로 감액하여 신속하게 처리한 사안입니다.
 
 ---
