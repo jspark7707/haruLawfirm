@@ -9,7 +9,7 @@ thumbnail: antifidelity.png
 alt: image-alt
 project-date: 2021
 client:
-category: 민사소송
+category: 가사소송
 description: 상간자로 위자료 3000만원을 지급하라는 소송의 피고로 피소된 의뢰인을 대리하여 지급액을 1000만원으로 감액하여 신속하게 처리한 사안입니다.
 
 ---
