@@ -1,6 +1,6 @@
 ---
 title: 대여금 반환청구 인용
-subtitle: 차용증 없이 현금으로 빌려준 대여금을 반환받은 사건
+subtitle: 차용증 없이 빌려준 대여금 반환
 layout: default
 modal-id: 4
 date: 2014-07-15
