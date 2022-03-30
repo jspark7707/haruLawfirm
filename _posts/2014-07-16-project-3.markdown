@@ -1,6 +1,6 @@
 ---
-title: 강제추행 현행범체포 후 기소유예
-subtitle: Website Design
+title: 강제추행 기소유예
+subtitle: 현행범 입건된 후 기소유예
 layout: default
 modal-id: 3
 date: 2014-07-16
