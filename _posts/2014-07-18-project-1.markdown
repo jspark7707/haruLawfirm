@@ -1,15 +1,15 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: 위자료 및 재산분할 일부승소
+subtitle: 권위적인 태도로 폭력을 행사한 남편에게 위자료 30,000,000원과 50%의 재산분할을 인정
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: divorce_1.png
+thumbnail: divorce_2.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: 2021
+client: 
+category: 가사소송
+description: 30여년 살아온 의뢰인은 남편의 무시하는 발언과, 폭행, 경제권을 쥐고 의뢰인과 의논도 하지 않는 태도로 수년간 서서히 멀어지다가 결국은 칼까지 들고 위협하는 남편을 상대로 한 이혼소송엣 이혼 및 3000만원의 위자료으 50%의 재산분할을 인정받은 사안입니다.
 
 ---
