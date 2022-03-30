@@ -1,15 +1,15 @@
 ---
-title: Golden
+title: 강제추행 현행범체포 후 기소유예
 subtitle: Website Design
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: harassment.png
+thumbnail: harassment.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: 2020
+client: 
+category: 형사사건
+description: 의뢰인이 강제추행으로 기소된 사안에서 사건 당시 의뢰인이 주취상태로 기억이 나지 않지만, 인정하고 반성하는 변론방향으 잡고, 2차 경찰조사에서 함께 출석하여 피고인이 당시 술에 많이 취한 상황과 피해자들에게 사과하고 적극적으로 합의하여 종국적으로 교육이수조건부 기소유예를 받은 사안입니다.
 
 ---
