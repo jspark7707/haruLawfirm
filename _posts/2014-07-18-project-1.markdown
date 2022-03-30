@@ -4,8 +4,8 @@ subtitle: 권위적인 태도로 폭력을 행사한 남편에게 위자료 30,0
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: divorce_1.png
-thumbnail: divorce_2.png
+img: divorce_2.png
+thumbnail:  divorce_1.png
 alt: image-alt
 project-date: 2021
 client: 
