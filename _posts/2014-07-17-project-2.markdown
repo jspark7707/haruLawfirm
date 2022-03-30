@@ -1,6 +1,6 @@
 ---
 title: 사기혐의 무죄판결
-subtitle: 불가항력으로 하도급계약사 의무를 이행하지 못한 의뢰인이 무죄를 받은 사례
+subtitle: 계약을 이행하지 못한 의뢰인이 무죄를 받은 사례
 layout: default
 modal-id: 2
 date: 2014-07-17
