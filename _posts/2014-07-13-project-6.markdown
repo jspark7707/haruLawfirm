@@ -1,15 +1,15 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: 마약사건 집행유예
+subtitle: 마약전과가 있음에도, 집행유예 받은 사례
 layout: default
 modal-id: 6
 date: 2014-07-15
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: 2021
+client: 
+category: 형사사건
+description: 의뢰인은 수회의 투약과 매수행위로 구속기소되었고, 이전의 전과로 인해 불리한 상황이었지만, 최대한 선처를 구하는 상황들을 부각하여 집행유예판결을 받은 사안입니다.
 
 ---
