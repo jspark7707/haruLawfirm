@@ -1,6 +1,6 @@
 ---
 title: 위자료 및 재산분할 일부승소
-subtitle: 위자료 30,000,000원과 50%의 재산분할을 인정
+subtitle: 위자료 30,000,000원과 50%의 재산분할
 layout: default
 modal-id: 1
 date: 2014-07-18
