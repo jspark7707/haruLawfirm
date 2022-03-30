@@ -1,15 +1,15 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: 대여금 반환청구 인용
+subtitle: 차용증 없이 현금으로 빌려준 대여금을 반환받은 사건
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+img: debtcase.png
+thumbnail: debtcase.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: 2020
+client:
+category: 민사소송
+description: 차용증 없이 500만원을 대여하고 상당시일이 경과해 입증이 어려울 것으로 예상했으나 인근 부동산중개인들의 증언과 상대방의 변제당시 정황 등을 재판부에 제출해 의뢰인 주장이 전부 인용되어 500만원 모두 돌려받은 사안입니다.
 
 ---
