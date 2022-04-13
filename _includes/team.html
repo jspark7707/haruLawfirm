@@ -10,6 +10,9 @@
             <div class="row">
                 {% for member in site.people %}
                 <div class="col-sm-6">
+                    
+                    <a href="#portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
+                        
                     <div class="team-member">
                        
                         <img src="img/team/{{ member.pic }}.jpg" class="img-responsive " alt="">
@@ -27,6 +30,9 @@
 
                         </ul>
                     </div>
+                        
+                    </a>
+                    
                 </div>
                 {% endfor %}
             </div>
