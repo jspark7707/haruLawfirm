@@ -1,6 +1,6 @@
 ---
 title: 마약사건 집행유예
-subtitle: 마약전과가 있음에도, 집행유예 받은 사례
+subtitle: 마약전과가 있음에도, 집행유예
 layout: default
 modal-id: 6
 date: 2014-07-15
