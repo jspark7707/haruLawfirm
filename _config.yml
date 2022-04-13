@@ -19,6 +19,26 @@ people:
       url: #
     - title: stack-overflow
       url: #
+  degree:
+    - graduated: 서울대학교 법과대학 졸업 
+    - graduated: 제45회 사법고시 합격
+    - graduated: 사법연수원 36기
+  resume:
+    - underwent: 서울북부지방법원 국선전담변호사
+    - underwent: 서울북부지방검찰청 상고심위원회 위원
+    - underwent: ㅇㅇ초등학교 학교폭력위원회 위원장
+    - underwent: 서울시 공익(마을) 변호사
+    - underwent: 서울성동광진교육청 학교폭력위원회 위원
+  current:
+    - doing: 형사전문변호사
+    - doing: 법률사무소 하루 대표변호사
+    - doing: 서울과학기술대학교 징계위원회 위원
+    - doing: 서울북부지방법원 국선변호인
+    - doing: 서울북부지방법원 논스톱국선변호인
+    - doing: 대법원 국선변호인
+    - doing: 노원세무서 납세자보호위원회 위원
+    - doing: ㅇㅇ중학교 학교폭력 전담기구 위원
+    - doing: ㅇㅇ초등학교 학교폭력 전담기구 위원
 
 - name: 안혜영
   pic: 2
@@ -30,6 +50,34 @@ people:
       url: #
     - title: linkedin
       url: #
+  degree:
+    - graduated: 연세대학교 법학과 졸업
+    - graduated: 충북대학교 법학전문대학원 졸업
+    - graduated: 변호사시험 1기 합격(변호사, 세무사, 변리사)
+  resume:
+    - underwent: 법무법인 명장 소속변호사
+    - underwent: 법무법인 오늘로 소속변호사
+    - underwent: 안혜영 법률사무소 대표변호사
+    - underwent: 법무부 범죄예방위원회 위원
+    - underwent: 청주지방법원 영동지원 조정위원
+    - underwent: 영동대학교 발명특허학과 겸임교수
+    - underwent: 청주지방검찰청 영동지원 범죄피해자지원센터 형사조정위원
+    - underwent: 영동다문화지원센터, 사회복지협의회 등 자문변호사
+    - underwent: 영동세무서 국세적부심사위원회/납세자보호위원회 위원
+    - underwent: 충북대학교 법학전문대학원 리걸클리닉 전문위원
+    - underwent: 도봉구 금고지정 심의위원회 위원
+    
+  current:
+    - doing: 형사전문변호사
+    - doing: 법률사무소 하루 파트너변호사
+    - doing: 서울도봉/성북경찰서 수사민원상담센터 전문상담변호사 
+    - doing: 서울도봉/성북경찰서 경찰공무원 징계위원회 징계위원
+    - doing: 도봉구 정신건강심의위원회 및 기초심판위원회 심사위원
+    - doing: 서울지방변호사회 변호사징계위원회 예비조사위원
+    - doing: 서울시 공익변호사단(창3동 마을변호사
+    - doing: 서울북부지방법원 국선변호인
+    - doing: 대한변호사협회 대의원
+    - doing: 한국여성변호사회 회원
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
