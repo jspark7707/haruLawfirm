@@ -39,7 +39,7 @@
           
          <ul class="list-group">
                             {% for course in member.degree %}
-                            <li>
+                            <li class= "list-group-item">
                                 <p> {{course.graduated}} </p>
                             </li>
                             {% endfor %}
@@ -48,7 +48,7 @@
           
           <ul class="list-group">
                             {% for past in member.resume %}
-                            <li>
+                            <li class= "list-group-item">
                                 <p> {{past.underwent}} </p>
                             </li>
                             {% endfor %}
@@ -57,7 +57,7 @@
           
           <ul class="list-group">
                             {% for present in member.current %}
-                            <li>
+                            <li class= "list-group-item">
                                 <p> {{present.doing}} </p>
                             </li>
                             {% endfor %}
