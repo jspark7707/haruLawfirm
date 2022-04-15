@@ -23,21 +23,8 @@
                         
                     </a>
                         
-                        <ul class="list-inline social-buttons">
-                            {% for network in member.social %}
-                            <li>
-                                <a href="{{ network.url }}">
-                                    <i class="fa fa-{{ network.title }}"></i>
-                                </a>
-                            </li>
-                            {% endfor %}
-
-                        </ul>
-                    </div>
                     
-                    
-                    
-                    <button class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
+                                            <button class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
                         Launch demo modal
                     </button>
                         
@@ -58,6 +45,23 @@
     </div>
   </div>
 </div>
+        
+                        
+                        <ul class="list-inline social-buttons">
+                            {% for network in member.social %}
+                            <li>
+                                <a href="{{ network.url }}">
+                                    <i class="fa fa-{{ network.title }}"></i>
+                                </a>
+                            </li>
+                            {% endfor %}
+
+                        </ul>
+                    </div>
+                    
+                    
+                    
+
                     
                     
                     
