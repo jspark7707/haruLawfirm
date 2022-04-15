@@ -36,9 +36,9 @@
       <div class="modal-body">
         
          <ul class="list-inline">
-                            {% for graduated in member.degree %}
+                            {% for course in member.degree %}
                             <li>
-                                <p> {{graduated}} </p>
+                                <p> {{course.graduated}} </p>
                             </li>
                             {% endfor %}
 
