@@ -44,6 +44,24 @@
 
                         </ul> 
           
+          <ul class="list-inline">
+                            {% for past in member.resume %}
+                            <li>
+                                <p> {{past.underwent}} </p>
+                            </li>
+                            {% endfor %}
+
+                        </ul> 
+          
+          <ul class="list-inline">
+                            {% for present in member.current %}
+                            <li>
+                                <p> {{present.doing}} </p>
+                            </li>
+                            {% endfor %}
+
+                        </ul> 
+          
           
       </div>
       <div class="modal-footer">
