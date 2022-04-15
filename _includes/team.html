@@ -37,7 +37,7 @@
         
           <img src="img/team/{{ member.pic }}.jpg" class="img-responsive " alt="">
           
-         <ul class="list-inline">
+         <ul class="list-group">
                             {% for course in member.degree %}
                             <li>
                                 <p> {{course.graduated}} </p>
@@ -46,7 +46,7 @@
 
                         </ul> 
           
-          <ul class="list-inline">
+          <ul class="list-group">
                             {% for past in member.resume %}
                             <li>
                                 <p> {{past.underwent}} </p>
@@ -55,7 +55,7 @@
 
                         </ul> 
           
-          <ul class="list-inline">
+          <ul class="list-group">
                             {% for present in member.current %}
                             <li>
                                 <p> {{present.doing}} </p>
