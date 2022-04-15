@@ -39,30 +39,31 @@
           
           
          <h4 class="modal-title">학력</h4> 
-         <ul class="list-group">
+         <ul class="list-group mb-0 fa-ul">
                             {% for course in member.degree %}
-                            <li class= "list-group-item">
-                                <p> {{course.graduated}} </p>
+                            <li class= "list-group-item ">
+                                {{course.graduated}}
                             </li>
                             {% endfor %}
 
                         </ul> 
           
-          <h4 class="modal-title">경력(前)</h4> 
-          <ul class="list-group">
+          <h4 class="modal-title ">경력(前)</h4> 
+          <ul class="list-group mb-0 fa-ul">
                             {% for past in member.resume %}
                             <li class= "list-group-item">
-                                <p> {{past.underwent}} </p>
+                             {{past.underwent}}
                             </li>
                             {% endfor %}
 
                         </ul> 
           
           <h4 class="modal-title">이력(現)</h4> 
-          <ul class="list-group">
+          
+          <ul class="list-group mb-0 fa-ul">
                             {% for present in member.current %}
                             <li class= "list-group-item">
-                                <p> {{present.doing}} </p>
+                                {{present.doing}} 
                             </li>
                             {% endfor %}
 
