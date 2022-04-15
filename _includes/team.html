@@ -15,7 +15,7 @@
                         
                     <div class="team-member">
                     
-                    <a href="#myModal" data-toggle="modal">   
+                    <a href="#myModal{{ member.pic }}" data-toggle="modal">   
                     
                         <img src="img/team/{{ member.pic }}.jpg" class="img-responsive " alt="">
                         <h4>{{ member.name }}</h4>
@@ -26,7 +26,7 @@
                     
 
                         
-                    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                    <div class="modal fade" id="myModal{{ member.pic }}" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
