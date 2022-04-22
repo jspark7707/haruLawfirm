@@ -7,8 +7,11 @@
                     <h3 class="section-subheading text-muted">유능하고 소통하는 사람들</h3>
                 </div>
             </div>
+            
+             {% for member in site.people %}
+            
             <div class="row">
-                {% for member in site.people %}
+               
                 <div class="col-sm-6">
                     
                     
@@ -65,6 +68,7 @@
                             <li class= "list-group-item">
                                 {{present.doing}} 
                             </li>
+              
                             {% endfor %}
 
                         </ul> 
@@ -99,8 +103,14 @@
                     
                     
                 </div>
-                {% endfor %}
+               
+                
+                
+                
             </div>
+            
+             {% endfor %}
+            
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <p class="large text-muted">법률사무소 하루는 각 변호사가 가지는 전문성을 토대로 정확한 법률서비스를 제공하기 위하여 꾸준히 연구하고, 의뢰인의 문제해결에 최선을 다하고 있습니다.</p>
