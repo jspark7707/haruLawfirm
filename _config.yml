@@ -13,12 +13,9 @@ people:
   pic: 1
   position: 대표변호사
   social:
-    - title: twitter
+    - title: rss-square
       url: https://themes.getbootstrap.com
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    
   degree:
     - graduated: 서울대학교 법과대학 졸업 
     - graduated: 제45회 사법고시 합격
@@ -44,12 +41,9 @@ people:
   pic: 2
   position: 파트너 변호사
   social:
-    - title: twitter
+    - title: rss-square
       url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+    
   degree:
     - graduated: 연세대학교 법학과 졸업
     - graduated: 충북대학교 법학전문대학원 졸업
