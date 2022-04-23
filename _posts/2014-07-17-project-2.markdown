@@ -8,10 +8,10 @@ img: fraudnotguilty.png
 thumbnail: fraudnotguilty.png
 alt: image-alt
 project-date: 2018
-client: 
+client:  https://blog.naver.com/daylifelaw/221500428999
 category: 형사사건
 description: 시공사업과 관련해 폐기무 처리공사르 하도급받은 의뢰인이 시행사의 사정으로 인해 불가항력으로 의무를 이행하지 못하였지만, 고소업체는 의뢰인을 사기혐읠 고소하였습니다. 이에 저희는 의뢰인이 보관하고 있었던 계약서, 이체확인증, 증인신문 등을 통해 의뢰인이 의무르 이행하지 못하 것은 계약체결 당시 예측할 수 없었던 사정으로 인한 것이었다는 점을 입증해 무죄를 받은 사안입니다. 
-url: https://blog.naver.com/daylifelaw/221500428999
+
 
 
 ---
