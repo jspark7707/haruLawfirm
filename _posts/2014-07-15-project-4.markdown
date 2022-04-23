@@ -8,9 +8,9 @@ img: debtcase.png
 thumbnail: debtcase.png
 alt: image-alt
 project-date: 2020
-client:
+client: https://blog.naver.com/daylifelaw/222176734879
 category: 민사소송
 description: 차용증 없이 500만원을 대여하고 상당시일이 경과해 입증이 어려울 것으로 예상했으나 인근 부동산중개인들의 증언과 상대방의 변제당시 정황 등을 재판부에 제출해 의뢰인 주장이 전부 인용되어 500만원 모두 돌려받은 사안입니다.
-url: https://blog.naver.com/daylifelaw/222176734879
+
 
 ---
