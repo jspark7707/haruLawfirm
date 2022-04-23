@@ -8,9 +8,9 @@ img: drugcase.png
 thumbnail: drugcase.png
 alt: image-alt
 project-date: 2021
-client: 
+client: https://blog.naver.com/daylifelaw/222579271133
 category: 형사사건
 description: 의뢰인은 수회의 투약과 매수행위로 구속기소되었고, 이전의 전과로 인해 불리한 상황이었지만, 최대한 선처를 구하는 상황들을 부각하여 집행유예판결을 받은 사안입니다.
-url: https://blog.naver.com/daylifelaw/222579271133
+
 
 ---
