@@ -108,6 +108,9 @@
                 
                  <div class="col-sm-6">
                          <div class="card mb-3 border-dark"  >
+                             
+                         <a href="#myModal{{ member.pic }}" data-toggle="modal">     
+                             
                              <img src="img/civilcase.png" class="card-img-top" alt="..." >
                              
                                 <div class="card-body">
@@ -115,6 +118,64 @@
                                     <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
                                     
                                  </div>
+                             
+                         </a>    
+                             
+                             
+                    <div class="modal fade" id="myModal{{ member.pic }}" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+        <h4 class="modal-title" id="myModalLabel">{{ member.name }} {{ member.position }} 이력</h4>
+      </div>
+      <div class="modal-body">
+        
+          <img src="img/team/{{ member.pic }}_{{ member.pic }}.jpg" class="img-responsive " alt="">
+          
+          
+         <h4 class="modal-title">학력</h4> 
+         <ul class="list-group mb-0 ">
+                            {% for course in member.degree %}
+                            <li class= "list-group-item ">
+                                {{course.graduated}}
+                            </li>
+                            {% endfor %}
+
+                        </ul> 
+          
+          <h4 class="modal-title ">경력(前)</h4> 
+          <ul class="list-group mb-0 ">
+                            {% for past in member.resume %}
+                            <li class= "list-group-item">
+                             {{past.underwent}}
+                            </li>
+                            {% endfor %}
+
+                        </ul> 
+          
+          <h4 class="modal-title">이력(現)</h4> 
+          
+          <ul class="list-group mb-0 ">
+                            {% for present in member.current %}
+                            <li class= "list-group-item">
+                                {{present.doing}} 
+                            </li>
+              
+                            {% endfor %}
+
+                        </ul> 
+          
+          
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+       
+      </div>
+    </div>
+  </div>
+</div>                             
+                             
                          </div>
                  </div>
                 
