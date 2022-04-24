@@ -894,6 +894,6 @@ body {
 }
 
 .card{
-    border: 0.5rem outset grey;
+    
     transition: transform .5s;
 }
