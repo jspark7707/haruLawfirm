@@ -868,14 +868,14 @@ body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
 
-.gmap_canvas {
+.root_daum_roughmap {
     height: 0;
     overflow: hidden;
     padding-bottom: 56.25%;
     position: relative;
 }
 
-.gmap_canvas iframe {
+.groot_daum_roughmap {
     position: absolute;
     left: 0;
     top: 0;
