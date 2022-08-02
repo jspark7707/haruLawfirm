@@ -55,9 +55,11 @@
                      
                       <div class="team-member">
                      
-                         <div class="card mb-3 border-dark"  >
+                         <a href="#myModal{{ member.pic }}" data-toggle="modal" >    
+                          
+                             <div class="card mb-3 border-dark"  >
                              
-                         <a href="#myModal{{ member.pic }}" data-toggle="modal" >     
+              
                              
                              
                              
@@ -88,13 +90,16 @@
                                     
                                  </div>
                              
-                         </a>    
+                          
                              
                              
                  
                              
                          </div>
                      
+                             </a>   
+                             
+                             
                     <div class="portfolio-modal modal fade" id="myModal{{ member.pic }}" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
