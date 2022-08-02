@@ -33,7 +33,7 @@
                             {% for network in member.social %}
                             <li>
                                 <a href="{{ network.url }}">
-                                    <i class="fa fa-{{ network.title }}"></i>
+                                    <i class="fa fa-{{ network.title } fa-lg}"></i>
                                 </a>
                             </li>
                             {% endfor %}
@@ -63,7 +63,39 @@
                              
                                 <div class="card-body">
                                     <h5 class="card-title">{{ member.name }} {{ member.position }} 이력</h5>
-                                    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                                    <p class="card-text">학력 및 주요이력</p>
+                                    
+                                    
+         <ul class="list-group mb-0 ">
+                            {% for course in member.degree %}
+                            <li class= "list-group-item ">
+                                {{course.graduated}}
+                            </li>
+                            {% endfor %}
+
+                        </ul> 
+          
+         
+          <ul class="list-group mb-0 ">
+                            {% for past in member.resume %}
+                            <li class= "list-group-item">
+                             {{past.underwent}}
+                            </li>
+                            {% endfor %}
+
+                        </ul> 
+          
+         
+          
+          <ul class="list-group mb-0 ">
+                            {% for present in member.current %}
+                            <li class= "list-group-item">
+                                {{present.doing}} 
+                            </li>
+              
+                            {% endfor %}
+
+                        </ul> 
                                     
                                  </div>
                              
