@@ -920,8 +920,8 @@ a:active {
     text-decoration: none;
 }
 
-a.card-body,
-a.card-body:hover {
+a.card,
+a.card:hover {
   color: black;
   text-decoration: none;
 }
