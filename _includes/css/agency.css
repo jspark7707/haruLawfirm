@@ -931,3 +931,11 @@ a.card mb-3 border-dark:hover {
   color: black;
   text-decoration: none;
 }
+
+.card a {
+	color: black !important;
+	text-decoration: none !important;
+}
+.card a:hover {
+	color: black !important;
+	text-decoration: none !important;
