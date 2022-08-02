@@ -896,8 +896,7 @@ body {
 
 .card:hover{
   transform: scale(1.1);
-  text-decoration: none;
-  color : black;
+
 }
 
 .card .card-body {
