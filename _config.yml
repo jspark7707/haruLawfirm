@@ -15,7 +15,17 @@ people:
   social:
     - title: rss-square
       url: https://blog.naver.com/daylifelaw
-    
+  
+  
+  upper:
+    - now: [이혼, 상속, 형사 전문]
+  best:
+    - is: 서울대학교 법과대학 졸업
+    - is: 제45회 사법고시합격
+    - is: 사법연수원 36기    
+    - is: 서울북부지방검찰청 상고심위원회 위원
+    - is: 서울과학기술대학교 징계위원회 위원   
+  
   degree:
     - graduated: 서울대학교 법과대학 졸업 
     - graduated: 제45회 사법고시 합격
@@ -43,7 +53,15 @@ people:
   social:
     - title: rss-square
       url: https://blog.naver.com/happi1015
-    
+  
+  upper:
+    - now: [이혼, 상속, 부동산, 형사 전문]
+  best:
+    - is: 연세대학교 법과대학 졸업
+    - is: 충북대학교 법학전문대학원 졸업
+    - is: 제1회 변호사시험 합격(변호사, 세무사, 변리사)    
+    - is: 서울도봉보건소 정신건강심사위원회 심사위원
+    - is: 서울도봉경찰서 경찰공무원 징계위원회 징계위원    
   degree:
     - graduated: 연세대학교 법학과 졸업
     - graduated: 충북대학교 법학전문대학원 졸업
