@@ -646,14 +646,14 @@ section h3.section-subheading {
     margin-top: 25px;
     margin-bottom: 0;
     text-transform: none;
-
+    line-height: 300%
 }
 
 .team-member h5 {
     margin-top: 25px;
     margin-bottom: 0;
     text-transform: none;
-    line-height: 200%
+    line-height: 300%
 }
 
 .team-member p {
