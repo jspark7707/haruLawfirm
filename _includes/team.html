@@ -67,24 +67,19 @@
                                     <h5 class="card-title">{{ member.name }} {{ member.position }} 이력</h5>
                                     
                                     
-                                     {% for course in member.degree %}
-                            <p class="card-text">
-                                {{course.graduated}}
+                                     {% for course in member.upper %}
+                            <p class="card-title">
+                                {{course.now}}
                            </p>
                             {% endfor %}
                                     
-                                    {% for past in member.resume %}
+                                    {% for past in member.best %}
                             <p class="card-text">
-                             {{past.underwent}}
+                             {{past.is}}
                             </p>
                             {% endfor %}
                                     
-                                     {% for present in member.current %}
-                            <p class="card-text">
-                                {{present.doing}} 
-                            </p>
-              
-                            {% endfor %}
+     
 
                                     
                                     
