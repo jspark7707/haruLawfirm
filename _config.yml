@@ -97,8 +97,8 @@ social:
   
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 서울 도봉구 도봉로168길 13 3호
+  - line: 우편번호: 01321
 
 # Build settings
 markdown: kramdown
