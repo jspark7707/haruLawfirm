@@ -67,11 +67,11 @@
                                     <h5 class="card-title">{{ member.name }} {{ member.position }} 이력</h5>
                                     
                                     
-                                     {% for course in member.upper %}
-                            <p class="card-title">
-                                {{course.now}}
-                           </p>
-                            {% endfor %}
+
+                            <h4 class="card-title">
+                                {{member.now}}
+                           </h4>
+
                                     
                                     {% for past in member.best %}
                             <p class="card-text">
