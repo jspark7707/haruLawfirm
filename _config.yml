@@ -15,10 +15,8 @@ people:
   social:
     - title: rss-square
       url: https://blog.naver.com/daylifelaw
+  now: [이혼, 상속, 형사 전문]
   
-  
-  upper:
-    - now: [이혼, 상속, 형사 전문]
   best:
     - is: 서울대학교 법과대학 졸업
     - is: 제45회 사법고시합격
@@ -53,9 +51,8 @@ people:
   social:
     - title: rss-square
       url: https://blog.naver.com/happi1015
+  now: [이혼, 상속, 부동산, 형사 전문]
   
-  upper:
-    - now: [이혼, 상속, 부동산, 형사 전문]
   best:
     - is: 연세대학교 법과대학 졸업
     - is: 충북대학교 법학전문대학원 졸업
